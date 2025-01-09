@@ -25,6 +25,9 @@
     grid-template-columns: 1fr 1fr 1fr;
     gap: 40px;
 }
+/* .mywork-containerbutton{
+    border: none;
+} */
 .mywork-container img{
     box-sizing: border-box;
     width: 419px;
