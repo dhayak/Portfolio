@@ -18,8 +18,8 @@ const Mywork = () => {
         {/* {mywork_data.map((work,index)=>{
             return <img key={index} src={work.w_img} alt="" />
         })} */}
-        <img src={food} alt="" href='https://www.facebook.com/' />
-        <img src={weather} alt="" href="https://weatherappbydhaya.netlify.app/"/>
+        <a href="https://royalfooddeliveryapp.netlify.app/" target='blank'><img src={food} alt="" /></a>
+        <a href="https://weatherappbydhaya.netlify.app/" target='blank'><img src={weather} alt="" /></a>
       </div>
       <div className="mywork-showmore">
         <p>Show More</p>
